@@ -1,0 +1,12 @@
+{
+    "name": "sivadier/quest_twig",
+    "authors": [
+        {
+            "name": "Flo28330",
+            "email": "florence.sivadier@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.12"
+    }
+}
