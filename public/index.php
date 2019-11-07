@@ -8,7 +8,7 @@ $twig = new \Twig\Environment($loader, [
 );
 
 
-$products = ['Carambar', 'Batnan', 'Chamallow', 'Ourson-guimauve', 'Chuppa chups', 'm&m\s'];
+$products = ['Carambar', 'Batnan', 'Chamallow', 'Ourson-guimauve', 'Chuppa chups', 'm&m\'s'];
 
 
 echo $twig->render('index.html.twig', [
